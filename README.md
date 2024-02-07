@@ -1,4 +1,4 @@
-# O, Hello there, I'm Alexey 👋 
+# O, hello there, I'm Alexey 👋 
 
 ## I'm a Python developer !
 
