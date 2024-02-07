@@ -2,7 +2,8 @@
 
 ## I'm a Python developer !
 
-- 🌱 I’m currently learning and learning
+- 🌱 Website development
+- ⭐ I’m currently learning and learning
 
 ### Languages and Tools:
 <img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
