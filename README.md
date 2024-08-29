@@ -18,13 +18,10 @@
 
 <img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/djangorest/djangorest-original.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flask/flask-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nginx/nginx-original.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jquery/jquery-original-wordmark.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/powershell/powershell-original.svg" />
 <br />
 <br />
 
