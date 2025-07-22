@@ -5,8 +5,7 @@
 - 🌱 Machine learning
 - ⭐ I’m currently learning and learning
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaeva-Anna&langs_count=5" alt="Top Languages" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaeva-Anna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Languages and Tools:
 
 <img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
