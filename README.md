@@ -5,7 +5,7 @@
 - 🌱 Machine learning
 - ⭐ I’m currently learning and learning
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaeva-Anna&layout=compact&hide=shell&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaeva-Anna&langs_count=5" alt="Top Languages" />
 
 ### Languages and Tools:
 
